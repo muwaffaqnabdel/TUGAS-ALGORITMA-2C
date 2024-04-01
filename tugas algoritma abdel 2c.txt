@@ -1,0 +1,9 @@
+NAMA	: ABDEL MUWAFFAQ NOURI
+KELAS	: 2C
+NIM	: 23090166
+
+TUGAS ALGOORITMA (BAGIAN STUDI KASUS)
+Untuk tugas kali ini,saya mengambil studi kasus dari aktivitas kampus
+Yaitu keluar motor dari kampus.
+Saat keluar dari kampus kita dicek plat nomonya sama atau tidak,dan disini saya menambahkan pengecekan nim untuk memastikan mahasiswa poltek phb betul atau tidak,lalu saat mahasiswa datang ketempat pengecekan plat nomor dan nim,mereka menyiapkannya, lalu petugas akan mengeceknya lewat sistem yang dibuat,plat nomor dan nim akan dimasukkan ke sistem
+Jika plat nomor dan nim sesuai maka akan keluar tulisan “Anda boleh keluar” jika tidak sesuai akan keluar tulisan “tidak boleh keluar”
